@@ -14,7 +14,9 @@ This project is an adaptation of the  original work of *https://github.com/abhas
 
 ### URLS
 Article: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
+
 Article code: https://github.com/abhashpanwar/used-car-price-prediction
+
 Dataset: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 
