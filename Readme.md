@@ -12,7 +12,7 @@ This project is an adaptation of the  original work of *https://github.com/abhas
 3) Run a model 
 4) Call a model from the API
 
-### URLS
+## URLS
 Article: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
 
 Article code: https://github.com/abhashpanwar/used-car-price-prediction
