@@ -9,7 +9,7 @@ This project is an adaptation of the  original work of *https://github.com/abhas
 
 	Step 2: Model Implementations on *ml-models.ipynb*
 	
-        Step 3: Data Visualization on *data-visualization.ipynb*
+	Step 3: Data Visualization on *data-visualization.ipynb*
 
 3) Run a model 
 4) Call a model from the API
