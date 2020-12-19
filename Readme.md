@@ -3,6 +3,10 @@ This project is an adaptation of the  original work of *https://github.com/abhas
 
 ## How to use it?
 1) Create a new project on Machine Learning
+
+![CDP](images/CDP1.png)
+
+
 2) Open a session on Jupyter and explore any of the steps developed in the original work:
 	
 	Step 1: Data Prerpocessing on *data-preprocessing.ipynb*
