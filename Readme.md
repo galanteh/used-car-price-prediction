@@ -4,9 +4,6 @@ This project is an adaptation of the  original work of *https://github.com/abhas
 ## How to use it?
 1) Create a new project on Machine Learning
 
-![CDP](images/CDP1.png)
-
-
 2) Open a session on Jupyter and explore any of the steps developed in the original work:
 	
 	Step 1: Data Prerpocessing on *data-preprocessing.ipynb*
@@ -25,4 +22,20 @@ Article code: https://github.com/abhashpanwar/used-car-price-prediction
 
 Dataset: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
+## Steps on Cloudera Data Platform
+### Create a new project on Cloudera Machine Learning
+
+![CDP](images/CDP1.png)
+
+### Provision a new ML Workspace
+
+![CDP](images/CDP2.png)
+
+### Option to provide a new Workspace
+
+![CDP](images/CDP3.png)
+
+### Enable internet on the containers
+
+![CDP](images/CDP4.png)
 
